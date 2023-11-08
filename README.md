@@ -1,6 +1,3 @@
-
-Certainly! When creating a description for your GitHub project, it's important to provide a clear and concise overview of what your project is about, what it does, and any key features or technologies used. Here's an example description for your Whack-A-Mole game project:
-
 Whack-A-Mole Game
 
 Whack-A-Mole Game is a fun and interactive web-based game where players test their reflexes by whacking moles that randomly pop up from holes. Built using HTML, CSS, and JavaScript, this game challenges players to click on the moles before they disappear, earning points with each successful hit.
